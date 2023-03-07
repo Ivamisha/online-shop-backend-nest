@@ -1,0 +1,22 @@
+{
+  "CONFIRM_EMAIL": {
+    "title:": "Confirm email!",
+    "s1": "Hi, {name} !",
+    "s2": "To confirm your email, please follow the link:",
+    "s3": "Confirm email",
+    "s4": "If you have not tried to register, you can ignore this letter."
+  },
+  "USER_NOTICE": {
+    "title": "Somebody trying to login!",
+    "s1": "Hi, {name} !",
+    "s2": "This email informs you that someone is trying to log into your account",
+    "s3": "If it's not you, take immediate action and change your password."
+  },
+  "USER_RESTORE": {
+    "title": "Forgot email",
+    "s1": "Hi, {name}!",
+    "s2": "Follow the link to change your password:",
+    "s3": "Change password",
+    "s4": "If you do not want to recover your password, take urgent action and manually change your password in your account"
+  }
+}
